@@ -33,8 +33,21 @@ body {
     font-size: 20px;
 }
 
-input {
+.form-control {
     caret-color: #32CD32;
+    background-color: black !important;
+    color: #32CD32 !important;
+    border-color: #32CD32 !important;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0.2em 0.1em #32CD32 !important; 
+    -webkit-box-shadow: 0 0 0.2em 0.1em #32cd32 !important;
+}
+
+.btn:hover {
+    box-shadow: 0 0 0.3em 0.2em #32CD32 !important; 
+    -webkit-box-shadow: 0 0 0.3em 0.2em #32cd32 !important;
 }
 /* 
 .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
