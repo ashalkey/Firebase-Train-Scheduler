@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'DS-DIGIB';
+    src: url('DS-DIGIB.TTF');
+}
+
+body {
+    background-color: black;
+    font-family: 'DS-DIGIB';
+    color: #32CD32;
+}
+
+.jumbotron {
+    background-color: black;
+}
+
+.card {
+    background-color: black;
+    border-color: #32CD32;
+}
+
+.card-header {
+    background-color: #32CD32;
+    color:black;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #32CD32;
+    color: black;
+    font-size: 20px;
+}
+
+input {
+    caret-color: #32CD32;
+}
+/* 
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #32CD32;
+    color: black;
+  } */
