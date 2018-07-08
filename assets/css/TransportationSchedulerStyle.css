@@ -49,6 +49,7 @@ body {
     box-shadow: 0 0 0.3em 0.2em #32CD32 !important; 
     -webkit-box-shadow: 0 0 0.3em 0.2em #32cd32 !important;
 }
+
 /* 
 .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
     background-color: #32CD32;
